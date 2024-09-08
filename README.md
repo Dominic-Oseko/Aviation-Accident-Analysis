@@ -4,9 +4,9 @@
 
 ### Problem Statement
 
-A company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. 
+A company is expanding into new industries to diversify its portfolio, with a specific interest in acquiring and operating airplanes for both commercial and private ventures. However, they lack knowledge about the potential risks associated with aircraft. 
 
-The task is determining which aircrafts are the lowest risk for the company to start this new business venture. The findings should then be translated into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+The objective is to identify which aircraft pose the lowest risk for the company to enter this new market. These findings should be converted into actionable insights to guide the head of the new aviation division in making informed decisions about aircraft purchases.
 
 ### Goal
 
@@ -18,15 +18,15 @@ The aim is therefore to translate the findings into actionable insights that the
 
 #### General Objective
 
-To identify the aircrafts that are less prone to be involved in an accident. This will help the head of the new aviation division to decide which aircraft to purchase and operate for commercial and private enterprises.
+To determine which aircraft are least likely to be involved in accidents. This information will assist the head of the new aviation division in making informed decisions on which aircraft to purchase and operate for commercial and private ventures.
 
 #### Specific Objectives
 
-To understand the problem statement, the goal and dataset used in the project.
+1. To understand the problem statement, the project's objectives, and the dataset utilized.
 
-To use various data cleaning techniques in order to make actionable insights.
+2. To apply data cleaning techniques to generate actionable insights.
 
-To analyse the data by both univariate and bivariate analysis for the various variables.
+3. To analyze the data through univariate and bivariate analysis of variables.
 
 ### Data Description
 
@@ -34,37 +34,35 @@ The data used is from the National Transportation Safety Board that includes avi
  
 ## 2. Data Preparation
 
-Uniformity - Ensures Consistent Data Representation
+Completeness - Ensure the dataset has no missing values.
 
-Consistency - Eliminates Discrepancies
+Uniformity - Maintain consistent data representation.
 
-Completeness - Ensure the dataset has no missing values
+Consistency - Resolve any discrepancies in the data.
 
 
 ## 3. Analysis
 
-Univariate Analysis - Analysis of one variable.
-
-Bivariate Analysis - Analysis of two variables.
+Univariate and Bivariate Analysis
 
  
 ## 6. Conclusion and Recommendations
 
 ### Conclusion
 
-For data cleaning, missing values were handled, duplicates were removed, type conversion was done and data consistency has also been ensured by making the strings in some of the columns to have similar format.
+For data cleaning, missing values were addressed, duplicates were eliminated, type conversions were performed, and data consistency was ensured by standardizing string formats in certain columns.
 
-Top five flight purposes for the aircrafts that were involved in accidents was personal, instructional, aerial application, business and positioning. Since the stakeholder is looking to purchase and operate aircrafts for commercial and private enterprises this was the main variable used in the bivariate analysis.
+The top five flight purposes for aircraft involved in accidents were personal, instructional, aerial application, business, and positioning. Given that the stakeholder plans to purchase and operate aircraft for both commercial and private use, this variable was the focus of the bivariate analysis.
 
 ### Recommendations
 
-The head of the new aviation division should purchase:
+The head of the new aviation division is advised to consider the following:
 
-1. Aircrafts of the make Bell or Mooney
+1. Purchase aircrafts from the Bell or Mooney manufacturers.
 
-2. A helicopter instead of an Airplane
+2. Opt for a helicopter over an airplane.
 
-3. Aircrafts with engine type of Turbo Shaft, Turbo Fan, Turbo Prop
+3. Choose aircrafts with Turbo Shaft, Turbo Fan, or Turbo Prop engine types.
  
  # Repository Guide
 
