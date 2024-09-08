@@ -70,8 +70,8 @@ The notebook ipynb that contains the project can be found here: <a href='https:/
 
 The notebook pdf for this project can be found here: <a href='https://github.com/Dominic-Oseko/Aviation-Accident-Analysis/blob/main/Aviation_Project.pdf'>notebook pdf</a>
 
-The slides presentation for this project can be found here: <a href='https://www.canva.com/design/DAGQEiKMbhw/rBSbH5Eb4xCBxxJCWhMclg/edit?utm_content=DAGQEiKMbhw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>Slides pdf</a>
+The slides presentation for this project can be found here: <a href='https://github.com/Dominic-Oseko/Aviation-Accident-Analysis/blob/main/Aviation%20Accident%20Analysis%20Slides.mp4'>Video</a>
 
 The tableau used for visualization can be found here: <a href='https://public.tableau.com/app/profile/dominic.oseko/viz/AviationAccidentAnalysis_17257107700020/Dashboard1'>Tableau Dashboard</a>
 
-The data used for the project can be found here: 
+The data used for the project can be found here: <a href='https://github.com/Dominic-Oseko/Aviation-Accident-Analysis/blob/main/AviationData.csv'>Data File</a>
