@@ -45,6 +45,18 @@ Consistency - Resolve any discrepancies in the data.
 
 Univariate and Bivariate Analysis
 
+### 1. Make
+
+![image](https://github.com/user-attachments/assets/99c8be4b-31d5-4063-8a36-72e40f2b0a22)
+
+### 2. Category
+
+![image](https://github.com/user-attachments/assets/abb28243-8900-4f47-8783-044200e48e21)
+
+### 3. Engine Type
+
+![image](https://github.com/user-attachments/assets/c4ddcb62-ad5c-4971-a8f1-8d4c0bda63e0)
+
  
 ## 6. Conclusion and Recommendations
 
