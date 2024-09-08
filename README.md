@@ -66,10 +66,12 @@ The head of the new aviation division is advised to consider the following:
  
  # Repository Guide
 
-The notebook that contains the project can be found here: 
+The notebook ipynb that contains the project can be found here: <a href='https://github.com/Dominic-Oseko/Aviation-Accident-Analysis/blob/main/Aviation_Project.ipynb'>notebook ipynb</a>
 
-The presentation for this project can be found here:
+The notebook pdf for this project can be found here: <a href='https://github.com/Dominic-Oseko/Aviation-Accident-Analysis/blob/main/Aviation_Project.pdf'>notebook pdf</a>
 
-The tableau used for visualization can be found here: 
+The slides presentation for this project can be found here: <a href='https://www.canva.com/design/DAGQEiKMbhw/rBSbH5Eb4xCBxxJCWhMclg/edit?utm_content=DAGQEiKMbhw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>Slides pdf</a>
+
+The tableau used for visualization can be found here: <a href='https://public.tableau.com/app/profile/dominic.oseko/viz/AviationAccidentAnalysis_17257107700020/Dashboard1'>Tableau Dashboard</a>
 
 The data used for the project can be found here: 
